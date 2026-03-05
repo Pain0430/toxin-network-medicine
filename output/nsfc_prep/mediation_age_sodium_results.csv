@@ -1,0 +1,8 @@
+parameter,value,unit
+beta_pb_sbp,3.613,mmHg/log-Pb
+baseline_mediation_ratio,87.19149820678288,%
+covariate_mediation_ratio,77.26391968772323,%
+target_ratio,88.6,%
+change,-9.92757851905965,%
+ci_lower,1.7139772469685086,effect
+ci_upper,2.038807303619473,effect
